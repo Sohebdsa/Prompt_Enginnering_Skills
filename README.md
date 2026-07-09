@@ -294,7 +294,7 @@ Feel free to use these prompts in personal, educational, or commercial projects.
 
 If you find this repository useful:
 
-- ⭐ Star the repository
+- ⭐ Star the repository + 1
 - 🍴 Fork it
 - 🛠️ Contribute prompts
 - 📢 Share it with the community
